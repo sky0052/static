@@ -448,7 +448,7 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
-  @media (max-width: 768px) {
+  @media (min-width: 57px) {
   .ftco-navbar-light.scrolled.awake .after{
       color: black !important;
     }
@@ -8442,7 +8442,7 @@ h1, h2, h3, h4, h5,
       color: white; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-brand {
-        color: #fff;
+/*        color: #fff;*/
         padding-left: 0; } }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav {
@@ -10160,3 +10160,18 @@ textarea.form-control {
   color: deeppink;
 }
 
+/*media here for mobile view*/
+
+
+@media (max-width: 768px){
+
+  .ftco-footer .ftco-footer-widget h2{
+    margin-bottom: 0px;
+  }
+
+}
+
+.quick:hover a{
+  color: red;
+/*  transition: ease;*/
+}
