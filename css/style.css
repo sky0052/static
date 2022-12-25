@@ -10188,6 +10188,11 @@ textarea.form-control {
     height: 34vh;
   }
 
+  .dropdown-content{
+    margin-top: 8px;
+    margin-left: -26px;
+  }
+
 }
 
 
