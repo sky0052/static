@@ -10160,6 +10160,10 @@ textarea.form-control {
   color: deeppink;
 }
 
+
+.im_sm{
+  display: none;
+}
 /*media here for mobile view*/
 
 
@@ -10193,6 +10197,18 @@ textarea.form-control {
     margin-left: -26px;
   }
 
+  .chat_mb{
+    margin-bottom: -20px;
+  }
+
+
+  .im_big{
+    display: none;
+  }
+
+  .im_sm{
+    display: block;
+  }
 }
 
 
