@@ -10201,6 +10201,7 @@ textarea.form-control {
     margin-bottom: -20px;
   }
 
+/*image big and small*/
 
   .im_big{
     display: none;
@@ -10209,6 +10210,35 @@ textarea.form-control {
   .im_sm{
     display: block;
   }
+
+/*all image css*/
+
+.juice_im{
+  height: 30vh;
+}
+
+.pasta_im{
+  object-fit: cover;
+}
+
+.gajar_im{
+    object-fit: cover;
+    object-position: bottom;
+}
+/*moving div here for sm*/
+
+ .sm_move{
+    position: absolute;
+    top: 212%;
+ }
+
+  .move_chat{
+    margin-top: 60%;
+  }
+  .sm_im{
+    object-fit: cover;
+  }
+
 }
 
 
