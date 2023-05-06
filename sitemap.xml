@@ -7,46 +7,41 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
+
 <url>
   <loc>https://balajifoodcaterers.in/</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://balajifoodcaterers.in/index.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <loc>https://balajifoodcaterers.in/about</loc>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://balajifoodcaterers.in/about.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <loc>https://balajifoodcaterers.in/silver</loc>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://balajifoodcaterers.in/silver.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <loc>https://balajifoodcaterers.in/gold</loc>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://balajifoodcaterers.in/gold.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <loc>https://balajifoodcaterers.in/dimond</loc>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://balajifoodcaterers.in/dimond.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <loc>https://balajifoodcaterers.in/platinum</loc>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://balajifoodcaterers.in/platinum.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
+  <loc>https://balajifoodcaterers.in/contact</loc>
+  <lastmod>2023-05-06T14:31:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://balajifoodcaterers.in/contact.html</loc>
-  <lastmod>2023-04-16T14:24:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>
